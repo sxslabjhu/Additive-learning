@@ -1,0 +1,9 @@
+Main file:
+1. Training spring network data: NN_additive_learning_Spring.m
+2. Training P53 network data: NN_additive_learning_gm_dynamic_sampling.m
+
+Data:
+1. P53 raw & standardized data in different cell conditions: 
+Scenescence_cellcondition1_prcs.mat ~ Scenescence_cellcondition4_prcs.mat
+2. Spring network data:
+Spring_sig_0p02
