@@ -1,0 +1,11 @@
+Main files:
+
+1. Analysis & visualization:
+Analysis_visualization*.m
+
+2. Data files including trained parameters:
+
+P53: cond1_Scenescence_NN_para_*; THEONE_Poly_Scenescence*
+SpringNet: Fsig=0p02_SpringNetwrok_NN*; THEONE_Poly_SpringNetwork*
+
+dsub means dimension of subgroup.
