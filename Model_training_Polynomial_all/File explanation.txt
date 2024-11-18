@@ -1,0 +1,8 @@
+Main file:
+Polynomial_main.m
+
+Data:
+1. P53 raw & standardized data in different cell conditions: 
+Scenescence_cellcondition1_prcs.mat ~ Scenescence_cellcondition4_prcs.mat
+2. Spring network data:
+Spring_sig_0p02
